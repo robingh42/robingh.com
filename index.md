@@ -20,6 +20,7 @@ footer: MIT Licensed | Copyright © 2020-present
 Hello, I am Robin! Now you know.
 
 Check out my [portfolio](portfolio/index.md)!
+I also have a [resume](/RGH_Resume.pdf)!
 
 
 
