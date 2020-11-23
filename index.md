@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /icons/saw.png
+heroImage: /public/icons/saw.png
 heroText: This is Robin
 tagline: I am a person who does things
 actionText: Portfolio
