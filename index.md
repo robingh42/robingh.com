@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /Photo_headon.jpeg
+heroImage: /Photo_headon.jpg
 heroText: This is Robin
 tagline: I am a person who does things
 actionText: Portfolio
