@@ -10,7 +10,8 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Portfolio', link: '/portfolio/' },
-          { text: 'Art', link: '/art/' }
+          { text: 'Art', link: '/art/' },
+          { text: 'Resume', link: '/RGH_Resume.pdf' }
         ],
       }
 }
