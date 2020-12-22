@@ -11,7 +11,7 @@ module.exports = {
           { text: 'Home', link: '/' },
           { text: 'Portfolio', link: '/portfolio/' },
           { text: 'Art', link: '/art/' },
-          { text: 'Resume', link: '/RGH_Resume.pdf' }
+          { text: 'Resume', link: 'https://robingh.com/RGH_Resume.pdf', target:'_self' }
         ],
       }
 }

@@ -1,19 +1,22 @@
+---
+sidebar: auto
+---
 # CNC Control Board
 
-![alt](./media/CNC/CNC_Board.jpg)
+![A picture of the top of the board in its case](./media/CNC/CNC_Board.jpg)
 
 ## Description
 
-I designed and built a CNC control board that can be used for a variety of projects. It can be used to control a robotic arm, CNC router, plotter, or even for [DotBot](http://poe.olin.edu/2019/dotbot/), my POE project. It has the ability to connect to a computer or access files from a microSD card in order to receive instructions.  My plan is to later implement this into 
+I designed and built a CNC control board that can be used for a variety of projects. It can be used to control a robotic arm, CNC router, plotter, or even for [DotBot](http://poe.olin.edu/2019/dotbot/), my POE project. It has the ability to connect to a computer or access files from a microSD card in order to receive instructions.  My plan is to implement this into a future project!
 
 ## Demo
 
-![alt](./media/CNC/CNC_Menu.gif)
+![A GIF of the menu system](./media/CNC/CNC_Menu.gif)
 
 *A demonstration of the menu system.*
- [here](https://youtu.be/DLJNf7T_Ems).
+*Check out the full video* [here](https://youtu.be/DLJNf7T_Ems).
 
-![alt](./media/CNC/CNC_Demo.gif)
+![A GIF demonstrating some of the features](./media/CNC/CNC_Demo.gif)
 *A demonstration of basic board abilities.*
 *Check out the full video* [here](https://youtu.be/oVZTHuJGgR0).
 

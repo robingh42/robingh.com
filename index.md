@@ -7,12 +7,12 @@ actionText: Portfolio
 actionLink: /portfolio/
 features:
 - title: Portfolio
-  details: Come learn about projects I've made
+  details: Come learn about various projects I've made!
 - title: Art
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+  details: Come see some of the art I have made!
 - title: Performant
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2020-present
+footer: MIT Licensed | Copyright © 2020-present Robin Graham-Hayes
 ---
 
 

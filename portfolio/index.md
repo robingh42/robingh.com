@@ -1,4 +1,8 @@
-# These are all my projects
+---
+sidebar: auto
+---
+
+# Portfolio
 
 
 
@@ -11,6 +15,8 @@
 
 
 
-## [Olin Man: The Video Game](./CNC_Board.md)
+## [Olin Man: The Video Game](./Olin_Man.md)
 
-![alt](./media/CNC/CNC_PCB_layer12.jpg)
+![alt](./media/OlinMan/OlinMan.png)
+
+*Software Design, Python*
