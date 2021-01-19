@@ -1,5 +1,15 @@
 ---
 sidebar: auto
+title: CNC Control Board
+date: 2020-01-12
+description:
+    A CNC control board that can be used for a variety of projects
+layout: Project
+img: 'CNC_Board.jpg'
+tags:
+    - software engineering
+    - fabrication
+    - embedded systems
 ---
 # CNC Control Board
 
