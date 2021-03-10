@@ -2,7 +2,7 @@
 title: "OlinMan: The Video Game"
 date: 2020-01-12
 description: "A video game created as a final project for my Software Design class"
-img: /OlinMan.png
+img: /projects/OlinMan.png
 tags: "Software Design, Python"
 type: article
 sidebar: auto

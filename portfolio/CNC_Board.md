@@ -2,7 +2,7 @@
 title: CNC Control Board
 date: 2020-01-14
 description: A CNC control board that can be used for a variety of projects
-img: /CNC_Board.jpg
+img: /projects/CNC_Board.jpg
 tags: PCB Design, SolidWorks, KiCad, Prototyping
 type: article
 sidebar: auto
