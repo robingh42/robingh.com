@@ -1,15 +1,12 @@
 ---
-sidebar: auto
 title: CNC Control Board
-date: 2020-01-12
-description:
-    A CNC control board that can be used for a variety of projects
-layout: Project
-img: 'CNC_Board.jpg'
-tags:
-    - software engineering
-    - fabrication
-    - embedded systems
+date: 2020-01-14
+description: A CNC control board that can be used for a variety of projects
+img: /CNC_Board.jpg
+tags: PCB Design, SolidWorks, KiCad, Prototyping
+type: article
+sidebar: auto
+
 ---
 # CNC Control Board
 
@@ -27,6 +24,7 @@ I designed and built a CNC control board that can be used for a variety of proje
 *Check out the full video* [here](https://youtu.be/DLJNf7T_Ems).
 
 ![A GIF demonstrating some of the features](./media/CNC/CNC_Demo.gif)
+
 *A demonstration of basic board abilities.*
 *Check out the full video* [here](https://youtu.be/oVZTHuJGgR0).
 

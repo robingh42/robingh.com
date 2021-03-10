@@ -1,17 +1,15 @@
----
-sidebar: auto
+--- 
 title: "OlinMan: The Video Game"
 date: 2020-01-12
-description:
-    "A video game created as a final project for my Software Design class"
-layout: Project
-img: /CNC_Board.jpg
+description: "A video game created as a final project for my Software Design class"
+img: /OlinMan.png
+tags: "Software Design, Python"
+type: article
+sidebar: auto
 sub_page: true
-tags:
-    - software engineering
-    - fabrication
-    - embedded systems
+
 ---
+
 # OlinMan: The Video Game
 
 

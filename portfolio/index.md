@@ -1,12 +1,15 @@
 ---
 title: Portfolio
-sidebar: auto
 portfolio_index: true
 ---
 
 
 # Portfolio
 
+posts
+
+<posts/>
+posts
 
 ## [CNC Control Board](./CNC_Board.md)
 ![alt](./media/CNC/CNC_Board.jpg)
