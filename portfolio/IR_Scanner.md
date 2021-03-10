@@ -3,7 +3,6 @@ sidebar: auto
 title: "Infrared Scanner"
 date: October 2019
 description: "A video game created as a final project for my Software Design class"
-layout: Project
 img: /CNC_Board.jpg
 sub_page: false
 tags:
